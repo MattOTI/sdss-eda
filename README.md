@@ -11,6 +11,8 @@ Brief exploration of the spectral and photometric properties of objects classifi
 
 Analysis involved initial inspection, data parsing and maintenance, direct comparison of observed physical and photometric properties. Pandas, numpy, matplotlib and seaborn utilised for mathematical manipulation as well as presentation of data in graphical form. Astropy utilised to facilitate direct comparisons between observed datapoints and categorised celestial objects.
 
+![SDSS Sky Coverage Map](images/skymap.png)
+
 ## Key Findings
 
 Redshift proved the strongest discriminator between object classes. Stars clustered at z ≈ 0, galaxies exhibited a bimodal distribution reflecting deliberate SDSS survey targeting, and quasars showed a broad distribution consistent with their ancient and distant nature.
@@ -28,6 +30,8 @@ sdss-eda/
 ├── data/
 │   └── star_classification/
 │       └── star_classification.csv
+├── images/
+│   └── skymap.png
 ├── notebooks/
 │   └── sdss_eda.ipynb
 ├── README.md
