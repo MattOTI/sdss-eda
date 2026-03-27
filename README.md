@@ -30,7 +30,8 @@ sdss-eda/
 │       └── star_classification.csv
 ├── notebooks/
 │   └── sdss_eda.ipynb
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ## Further Work
