@@ -5,7 +5,7 @@ Brief exploration of the spectral and photometric properties of objects classifi
 ![LinkedIn](https://www.linkedin.com/in/matt-jarosiewicz/)
 ![Original Dataset](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17)
 
-## How It's Made:
+## How It's Made
 
 **Tech Used:** Python, VS Code, Jupyter Notebooks
 
