@@ -1,9 +1,9 @@
 # Analysis of the Sloan Digital Sky Survey DR17
 Brief exploration of the spectral and photometric properties of objects classified by the SDSS DR17, sourced from Kaggle (fedesoriano, 2022).
 
-![GitHub Profile](https://github.com/MattOTI)
-![LinkedIn](https://www.linkedin.com/in/matt-jarosiewicz/)
-![Original Dataset](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17)
+[GitHub Profile](https://github.com/MattOTI)
+[LinkedIn](https://www.linkedin.com/in/matt-jarosiewicz/)
+[Original Dataset](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17)
 
 ## How It's Made
 
