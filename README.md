@@ -28,10 +28,21 @@ sdss-eda/
 ├── data/
 │   └── star_classification/
 │       └── star_classification.csv
+├── images/
+│   └── class_distribution.png
+│   └── filter_g.png
+│   └── filter_i.png
+│   └── filter_r.png
+│   └── filter_u.png
+│   └── filter_z.png
+│   └── redshift_distribution.png
+│   └── skymap.png
+│   └── spectral_energy_distribution.png
 ├── notebooks/
+│   └── sdss_eda.html
 │   └── sdss_eda.ipynb
-├── README.md
-└── LICENSE
+├── LICENSE
+└── README.md
 ```
 
 ## Further Work
