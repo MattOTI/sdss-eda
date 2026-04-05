@@ -5,11 +5,13 @@ Brief exploration of the spectral and photometric properties of objects classifi
 ![LinkedIn](https://www.linkedin.com/in/matt-jarosiewicz/)
 ![Original Dataset](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17)
 
-## How It's Made:
+## How It's Made
 
 **Tech Used:** Python, VS Code, Jupyter Notebooks
 
 Analysis involved initial inspection, data parsing and maintenance, direct comparison of observed physical and photometric properties. Pandas, numpy, matplotlib and seaborn utilised for mathematical manipulation as well as presentation of data in graphical form. Astropy utilised to facilitate direct comparisons between observed datapoints and categorised celestial objects.
+
+![SDSS Sky Coverage Map](images/skymap.png)
 
 ## Key Findings
 
